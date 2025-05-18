@@ -1,2 +1,2 @@
-# Emulation-
+# Emulation
 Οδηγοί Emulators και Setups
